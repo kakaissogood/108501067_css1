@@ -1,0 +1,54 @@
+body{
+	margin: 0;
+}
+.logo{
+	color: rgb(28, 48, 65);
+	font-family: Georgia;
+	text-transform: uppercase;
+	margin: 3%;
+}
+.title{
+	color:white;
+	font-family: Georgia;
+	text-transform: uppercase;
+	background-color: rgb(28, 48, 65);
+	text-align: center;
+	padding: 75px;
+	margin: 0;
+}
+.bottom{
+	display: flex;
+	background: white;
+}
+.bottom a{
+	font-family: Georgia;
+	font-size: 20px;
+	color: rgb(28, 48, 65);
+	padding: 14px 20px;
+	text-decoration: none;
+	text-align: center;
+	margin: 0 auto;
+}
+h1{
+	font-size: 100px;
+	font-weight: bold;
+}
+h3{
+	font-size: 30px;
+	font-weight: bold;
+}
+h5{
+	font-family: Georgia;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+p{
+	font-size: 18px;
+	text-align: center;
+}
+img{
+	display: block;
+	margin: 0 auto;
+	width: 500px;
+}
